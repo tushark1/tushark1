@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/tusharkhubani" target="blank"><img src="https://img.shields.io/twitter/follow/tusharkhubani?logo=twitter&style=for-the-badge" alt="tusharkhubani" /></a> </p>
 
-- 🌱 I’m currently learning **Fast API**
+- 🌱 I’m currently learning **Fast API** & **Flutter**
 
 - 💬 Ask me about **vue,laravel & tailwindcss**
 
