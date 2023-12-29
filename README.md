@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/tusharkhubani" target="blank"><img src="https://img.shields.io/twitter/follow/tusharkhubani?logo=twitter&style=for-the-badge" alt="tusharkhubani" /></a> </p>
 
-- 🌱 I’m currently learning **Fast API** & **Flutter**
+- 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **vue,laravel & tailwindcss**
+- 💬 Ask me about **Vue.js, Laravel & Tailwindcss**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
